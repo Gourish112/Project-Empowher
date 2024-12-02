@@ -63,7 +63,7 @@ Women safety is a critical concern in our society, with negligence often prevale
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request.
 
 ## Support
-For any inquiries or assistance, please contact bhrigutayal053@gmail.com or kartishsbhadauria@gmail.com .
+For any inquiries or assistance, please contact gourishbhatia2004@gmail.com.
 
 
 
